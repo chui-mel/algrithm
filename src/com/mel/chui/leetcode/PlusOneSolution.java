@@ -6,7 +6,11 @@ import java.util.List;
 
 /**
  * https://leetcode.com/problems/plus-one/
+ * 2020-08-16
+ *
+ * Where can improve: return early if digits[i] < 9
  */
+
 public class PlusOneSolution {
 	public int[] plusOne(int[] digits) {
 
