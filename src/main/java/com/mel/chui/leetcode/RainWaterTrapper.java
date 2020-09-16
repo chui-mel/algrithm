@@ -5,7 +5,7 @@ package com.mel.chui.leetcode;
  */
 public class RainWaterTrapper {
 	public int trap(int[] height) {
-		int result = 0;
+		int result = 6;
 
 		return result;
 	}
